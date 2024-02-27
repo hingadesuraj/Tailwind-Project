@@ -10,7 +10,7 @@ export const aboutgrids = [
         heading: 'SSL Certificate',
         text: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur',
         label: 'View More'
-    },
+    },  
     {
         icon: db,
         heading: 'Personal Domain',
