@@ -17,8 +17,8 @@ const Header = () => {
         </div>
         {/* right side */}
         <div className="flex justify-between gap-6" >
-          <a href="">Login</a>
-          <a href="">Signup</a>  
+          <a href="" className="inline-block p-2 text-gray-700 hover:border-1 hover:text-black hover:bg-indigo-200 rounded-md"  >Login</a>
+          <a href="" className="inline-block p-2 text-gray-700 hover:border-1 hover:text-black hover:bg-yellow-100 rounded-md transition ease-in duration-500 "  >Signup</a>  
         </div>
       </div>
     </>
