@@ -3,7 +3,7 @@ import Image from './miniComponent/Image'
 
 const Sponser = () => {
   return (
-    <div className='flex justify-around items-center mx-[155px] my-3 pt-10 mt-8' >
+    <div className='flex justify-around items-center mx-[155px] my-3 pt-10 mt-8 mb-16' >
         <Image Title="Airbnb" URL="https://cdn1.iconfinder.com/data/icons/brands-4/512/fi-brands-airbnb-64.png" />
         <Image Title="Google " URL='https://cdn4.iconfinder.com/data/icons/picons-social/57/09-google-3-64.png' />
         <Image Title="Microsoft" URL="https://cdn2.iconfinder.com/data/icons/css-vol-2/24/microsoft-64.png" />
