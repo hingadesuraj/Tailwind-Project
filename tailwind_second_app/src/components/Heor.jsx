@@ -47,7 +47,6 @@ const Heor = () => {
             alt="Hero Image"
           />
         </div>
-        
       </div>
     </div>
   );

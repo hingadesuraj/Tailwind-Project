@@ -4,6 +4,7 @@ import Heor2 from "./components/Heor2";
 import Hero3 from "./components/Hero3";
 import Navigation from "./components/Navigation";
 import Sponser from "./components/Sponser";
+import UserStats from "./components/UserStats";
 import Button from "./components/miniComponent/Button";
 import Image from "./components/miniComponent/Image";
 
@@ -15,6 +16,7 @@ function App() {
       <Sponser />
       <Heor2/>
       <Hero3 />
+      <UserStats />
     </>
   );
 }
