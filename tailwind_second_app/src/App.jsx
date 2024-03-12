@@ -16,6 +16,7 @@ import UserStats from "./components/UserStats";
 function App() {
   return (
     <>
+    {/* done this project desing using tailwind css */}
     <Navigation />
    <Heor />
       <Sponser />
@@ -30,5 +31,5 @@ function App() {
     </>
   );
 }
-
+ 
 export default App;
