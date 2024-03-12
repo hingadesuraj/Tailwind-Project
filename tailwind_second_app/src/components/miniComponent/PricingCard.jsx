@@ -4,7 +4,7 @@ import Button from "./Button";
 const PricingCard = () => {
   return (
     <div className="  shadow-md rounded-md border-indigo-500 m-2 p-2" >
-      <div  >
+      <div className="w-full"  >
         <h1 className="text-3xl font-bold text-center py-4" >Starter</h1>
         <p className="font-thin text-xl text-center py-2" >Best option for personal use & for your next project.</p>
         <h1 className="font-bold text-xl text-center py-2" >$29 /<span className="text-sm" >month</span></h1>
@@ -15,8 +15,8 @@ const PricingCard = () => {
           <li className="py-2" >  Premium support: 6 months </li>
           <li className="py-2" >  Free updates: 6 months</li>
         </div>
-        <div className="flex justify-center items-center p-4 ">
-        <Button title="Get Started" />
+        <div className="flex justify-center items-center p-4 w-full ">
+        <Button className="w-full" title="Get Started" />
         </div>
       </div>
     </div>
