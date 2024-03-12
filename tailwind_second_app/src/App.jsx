@@ -1,6 +1,7 @@
 import "./App.css";
 import Heor from "./components/Heor";
 import Heor2 from "./components/Heor2";
+import Hero3 from "./components/Hero3";
 import Navigation from "./components/Navigation";
 import Sponser from "./components/Sponser";
 import Button from "./components/miniComponent/Button";
@@ -13,6 +14,7 @@ function App() {
    <Heor />
       <Sponser />
       <Heor2/>
+      <Hero3 />
     </>
   );
 }

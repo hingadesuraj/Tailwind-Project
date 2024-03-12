@@ -2,8 +2,8 @@ import React from "react";
 
 const Heor2 = () => {
   return (
-    <div className=" bg-[#F9FAFB]">
-    <div className= " flex justify-center items-center mx-[155px] my-3 py-[100px]">
+    <div className=" bg-[#F9FAFB] ">
+    <div className= " flex justify-center items-center mx-[155px] my-3 mb-0 py-[100px] pb-[50px] ">
       {/* left */}
       <div className="w-[50%]" >
         {/* heading paragraph checklist paragreaph */}
