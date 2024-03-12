@@ -3,7 +3,7 @@ import Card from './miniComponent/Card'
 
 const UserStats = () => {
   return (
-    <div className='flex w-full  mx-[155px] my-3 mb-6 ' >
+    <div className='flex    mx-[155px] my-3 mb-6 ' >
         {/* right */}
         <div   >
             <h3 className=' text-blue-600 font-semibold text-xl  py-4' >Trusted Worldwide</h3>
