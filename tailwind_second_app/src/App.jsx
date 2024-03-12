@@ -1,4 +1,5 @@
 import "./App.css";
+import FrequentlyAsk from "./components/FrequentlyAsk";
 import Heor from "./components/Heor";
 import Heor2 from "./components/Heor2";
 import Hero3 from "./components/Hero3";
@@ -7,8 +8,8 @@ import Pricing from "./components/Pricing";
 import Review from "./components/Review";
 import Sponser from "./components/Sponser";
 import UserStats from "./components/UserStats";
-import Button from "./components/miniComponent/Button";
-import Image from "./components/miniComponent/Image";
+ 
+ 
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <UserStats />
       <Review />
       <Pricing />
+      <FrequentlyAsk />
     </>
   );
 }
