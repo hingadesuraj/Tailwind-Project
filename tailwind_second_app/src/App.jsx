@@ -1,4 +1,5 @@
 import "./App.css";
+import FreeTrial from "./components/FreeTrial";
 import FrequentlyAsk from "./components/FrequentlyAsk";
 import Heor from "./components/Heor";
 import Heor2 from "./components/Heor2";
@@ -23,6 +24,7 @@ function App() {
       <Review />
       <Pricing />
       <FrequentlyAsk />
+      <FreeTrial />
     </>
   );
 }
